@@ -8,10 +8,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Collect student data including grades and placement status.
+2.Clean and split the data for training and testing.
+3.Train the logistic regression model using the training data.
+4.Evaluate the model's performance using testing data.
+5.Use the trained model to predict placement status for new students.
+
 
 ## Program:
 ```
@@ -60,8 +62,12 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-
+![image](https://github.com/marcoyoi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128804366/a0d925f4-78cd-482c-856a-f0a83d17fdec)
+![image](https://github.com/marcoyoi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128804366/34f8bca1-83e7-4f18-ac8a-f0d6658e1586)
+![image](https://github.com/marcoyoi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128804366/a3f58cc6-0c8f-46fb-9ca6-90bc06459fd4)
+![image](https://github.com/marcoyoi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128804366/482ed051-3493-495b-a454-1279662a19e9)
+![image](https://github.com/marcoyoi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128804366/bad9f500-5fac-4a75-b33d-1b706d0e1772)
+![image](https://github.com/marcoyoi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128804366/1df60bbe-c76e-4ea2-bf3f-d7a87a10d678)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
