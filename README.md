@@ -67,7 +67,7 @@ RegisterNumber: 212223240086
 ## Output:
 ### Preprocessing:
 ![image](https://github.com/arbasil05/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144218037/05c1df2e-f3f4-4b47-aba5-1c37bd368831)
-### Classifictaion: 
+### Classification: 
 ![image](https://github.com/arbasil05/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144218037/30780441-5caa-496d-8868-2e4f30040078)
 
 
